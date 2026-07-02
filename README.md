@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:navaneethshenoy96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/navaneeth-shenoy-6a79a329a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/navaneeth-shenoy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -69,16 +69,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🌐 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NAVANEETH-SHENOY&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAVANEETH-SHENOY&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVANEETH-SHENOY&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/navaneeth-shenoy/)
+- ✉️ Email: navaneethshenoy96@gmail.com
 
 ---
 
