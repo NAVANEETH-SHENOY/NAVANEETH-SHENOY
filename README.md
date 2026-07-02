@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Navaneeth Shenoy 👋</h1>
 
-<h3 align="center">AI/ML Enthusiast | Information Science Student</h3>
+<h3 align="center">AI/ML Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+with+PyTorch+%26+Generative+Models;Exploring+VAEs%2C+DDPMs+%26+LLMs;Turning+Data+into+Decisions" alt="Typing SVG" />
