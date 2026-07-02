@@ -13,7 +13,7 @@
 
 ---
 
-- 🎓 Fourth-year **Information Science** student at **NIE, Mysuru** (Batch 2027)
+- 🎓 Fourth-year **Information Science** student at **NIE, Mysuru**
 - 🧠 Focused on **AI, Machine Learning, and Large Language Models**
 - 🛠️ Hands-on with **PyTorch**, generative models, and applied ML pipelines
 - 🌐 Also into **backend development** and **full-stack engineering** with Python, Express.js, and React
